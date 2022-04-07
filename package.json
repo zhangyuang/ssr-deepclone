@@ -1,6 +1,6 @@
 {
   "name": "ssr-deepclone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "deepClone for js Object",
   "main": "index.js",
   "module": "esm.js",
